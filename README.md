@@ -6,7 +6,7 @@ We are diligently working to provide you with the best experience for connecting
 ## Deploymnet requirements
 1. Apache server with ubuntu v20.2.
 2. Python 3.0 or grater.
-3. MySQL version 5.5 or greater, or MariaDB
+3. SQLite version 5.5 or greater, or MariaDB
 4. django.
 5. ZegoCloud API (We recommend) or an other videocall API.
 
